@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Repaso</string>
+
+    <string name="texto1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis est diam. Curabitur auctor fermentum nunc. Aliquam erat volutpat. Phasellus placerat diam vitae lacus cursus, ac porta justo tempus. Ut tincidunt venenatis dui, sed luctus nisl posuere eget. Vestibulum ut nisi eleifend, laoreet massa sed, pharetra elit. Quisque vitae lectus in elit rutrum blandit non tempor lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vitae pharetra tellus. Donec eu arcu eget felis finibus congue id ut nisi. Integer aliquam imperdiet malesuada.
+        \n\n\n
+        Nunc porttitor bibendum diam, et vehicula metus aliquam tincidunt. Aenean a sodales sem. Ut quis ex varius, sodales metus et, pulvinar purus. Vivamus luctus dui eros, et tristique nisl fringilla rhoncus. Fusce non leo luctus, commodo lorem sit amet, ultrices quam. Sed ligula enim, suscipit elementum commodo sed, feugiat eu lacus. Pellentesque nec eros non erat auctor luctus elementum eu turpis. Sed non felis consequat, lacinia eros sed, vulputate elit. Vivamus accumsan venenatis volutpat. Maecenas ultrices lobortis elementum. Suspendisse potenti. Sed lobortis nibh ac lacus venenatis condimentum.
+        \n\n\n
+        Duis id erat eget nisl luctus suscipit. Duis ullamcorper lorem augue. Vivamus est erat, egestas ut elit quis, pharetra malesuada magna. Praesent cursus nec justo sollicitudin condimentum. Etiam non lectus sed dui varius fermentum porta id lectus. Donec a diam tellus. Phasellus semper in ipsum viverra cursus. Etiam quis vestibulum justo. Praesent pretium sollicitudin eleifend. Sed non pellentesque velit, vitae mollis felis. Proin iaculis sodales dolor, vitae aliquet mauris pretium nec. Nullam ultricies dui in tortor efficitur, quis consequat libero tincidunt. Sed ac leo lacinia, porttitor arcu non, venenatis enim. Etiam a auctor mauris. Praesent sagittis purus eget diam consectetur semper.
+        \n\n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis est diam. Curabitur auctor fermentum nunc. Aliquam erat volutpat. Phasellus placerat diam vitae lacus cursus, ac porta justo tempus. Ut tincidunt venenatis dui, sed luctus nisl posuere eget. Vestibulum ut nisi eleifend, laoreet massa sed, pharetra elit. Quisque vitae lectus in elit rutrum blandit non tempor lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed vitae pharetra tellus. Donec eu arcu eget felis finibus congue id ut nisi. Integer aliquam imperdiet malesuada.
+        \n\n\n
+        Nunc porttitor bibendum diam, et vehicula metus aliquam tincidunt. Aenean a sodales sem. Ut quis ex varius, sodales metus et, pulvinar purus. Vivamus luctus dui eros, et tristique nisl fringilla rhoncus. Fusce non leo luctus, commodo lorem sit amet, ultrices quam. Sed ligula enim, suscipit elementum commodo sed, feugiat eu lacus. Pellentesque nec eros non erat auctor luctus elementum eu turpis. Sed non felis consequat, lacinia eros sed, vulputate elit. Vivamus accumsan venenatis volutpat. Maecenas ultrices lobortis elementum. Suspendisse potenti. Sed lobortis nibh ac lacus venenatis condimentum.
+        \n\n\n
+        Duis id erat eget nisl luctus suscipit. Duis ullamcorper lorem augue. Vivamus est erat, egestas ut elit quis, pharetra malesuada magna. Praesent cursus nec justo sollicitudin condimentum. Etiam non lectus sed dui varius fermentum porta id lectus. Donec a diam tellus. Phasellus semper in ipsum viverra cursus. Etiam quis vestibulum justo. Praesent pretium sollicitudin eleifend. Sed non pellentesque velit, vitae mollis felis. Proin iaculis sodales dolor, vitae aliquet mauris pretium nec. Nullam ultricies dui in tortor efficitur, quis consequat libero tincidunt. Sed ac leo lacinia, porttitor arcu non, venenatis enim. Etiam a auctor mauris. Praesent sagittis purus eget diam consectetur semper.
+    </string>
+    
+    <string name="textoResta">
+
+La resta o la sustracción es una operación de aritmética que se representa con el signo (–); representa la operación de eliminación de objetos de una colección. Por ejemplo, en la imagen de la derecha hay 5 – 2 manzanas; significando 5 manzanas con 2 quitadas, con lo cual hay un total de 3 manzanas. Por lo tanto, 5 – 2 = 3. Además de contar frutas, la sustracción también puede representar combinación de otras magnitudes físicas y abstractas usando diferentes tipos de objetos: números negativos, fracciones, números irracionales, vectores, decimales, funciones, matrices y más.
+
+La sustracción sigue varios patrones importantes. Es anticonmutativa, lo que significa que el cambio del orden cambia el signo de la respuesta. No es asociativa, lo que significa que cuando se restan más de dos números, importa el orden en el que se realiza la resta. Restar 0 no cambia un número. La sustracción también obedece a reglas predecibles relativas a las operaciones relacionadas, tales como la adición y la multiplicación. Todas estas reglas pueden probarse a partir de la sustracción de números enteros y generalizarlas mediante los números reales y más allá. Las operaciones binarias generales que siguen estos patrones se estudian en el álgebra abstracta.
+
+Realizar sustracciones es una de las tareas numéricas más simples. La sustracción de números muy pequeños es accesible para los niños pequeños. En la educación primaria, a los estudiantes se les enseña a restar números en el sistema decimal, comenzando con un solo dígito y progresivamente abordando problemas más difíciles. Las ayudas mecánicas van desde el antiguo ábaco a a computadora moderna.ejemplo 2-2=1
+
+    </string>
+
+    <string name="textoMultilicacion">
+La multiplicación es una operación binaria que se establece en un conjunto numérico.2​ En aritmética, es una de las cuatro operaciones elementales, junto con la suma, la resta y la división, y es la operación inversa de esta última. Esto significa que para toda multiplicación, por ejemplo «5 por 2 igual a 10» existe una división equivalente, en este caso: «10 dividido entre 2 igual a 5», o «10 dividido entre 5 igual a 2».
+
+Existen dos signos para indicar esta operación entre números naturales: el aspa "×" y el punto gordo a media altura ( • ). En el caso de variables representadas por letras (solo letras o mezcla) se usa el punto (no el aspa) pero se puede prescindir de él por ejemplo 3ab (se lee «tres a b») xy + 2y (se lee «equis i más dos i»)
+
+Multiplicar una cantidad por un número consiste en sumar dicha cantidad tantas veces como indica el número.3​ Así, 4×3 (léase «cuatro multiplicado por tres» o, simplemente, «cuatro por tres») es igual a sumar tres veces el número 4 (4+4+4)4​(nota5​) También se puede interpretar como 3 filas de 4 objetos, o 4 filas de 3 (véase el dibujo). 4 y 3 son los factores, y 12, el resultado de la operación, es el producto.6​ La multiplicación está asociada al concepto de área geométrica: es fácil ver que el área de un rectángulo se obtiene multiplicando la longitud de ambos lados, basta con imaginarnos la superficie cubierta con baldosas cuadradas.7​
+
+El resultado de la multiplicación de varios números se llama producto. Los números que se multiplican se llaman factores o coeficientes, e individualmente: multiplicando (número a sumar o número que se está multiplicando) y multiplicador (veces que se suma el multiplicando). Esta diferenciación tiene poco sentido cuando, en el conjunto donde esté definido el producto, se da la propiedad conmutativa de la multiplicación (por ejemplo, en los conjuntos numéricos: 5×7 = 7×3, es decir, el orden de los factores no altera el producto). Sin embargo puede ser útil si se usa para referirse al multiplicador de una expresión algebraica (ej: en
+
+{\displaystyle a^{2}b+a^{2}b+a^{2}b}{\displaystyle a^{2}b+a^{2}b+a^{2}b} ó {\displaystyle 3a^{2}b}{\displaystyle 3a^{2}b},
+
+3 es el multiplicador o coeficiente, mientras que el monomio {\displaystyle a^{2}b}{\displaystyle a^{2}b} es el multiplicando).
+
+La potenciación es un caso particular de la multiplicación donde el exponente indica las veces que debe multiplicarse un número por sí mismo. Ejemplo: 2 • 2 • 2 • 2 • 2 • 2 • = 2 6 = 64
+
+Aquí, 6 es el exponente, y 2 la base.
+
+En álgebra moderna se suele usar la denominación «cociente» o «multiplicación» con su notación habitual «·» para designar la operación externa en un módulo, para designar también la segunda operación que se define en un anillo (aquella para la que no está definido el elemento inverso del 0), o para designar la operación que dota a un conjunto de estructura de grupo. La operación inversa de la multiplicación es la división.8​
+    </string>
+
+    <string name="textoDivision">
+        En la matemática, la división es una operación parcialmente definida en el conjunto de los números naturales y los números enteros; en cambio, en el caso de los números racionales, reales y complejos es siempre posible efectuar la división, exigiendo que el divisor sea distinto de cero, sea cual fuera la naturaleza de los números por dividir. En el caso de que sea posible efectuar la división, esta consiste en indagar cuántas veces un número (divisor) está "contenido" en otro número (dividendo). El resultado de una división recibe el nombre de cociente. De manera general puede decirse que la división es la operación inversa de la multiplicación, siempre y cuando se realice en un campo.1​
+
+Debe distinguirse la división «exacta» (sujeto principal de este artículo) de la «división con resto» o residuo (la división euclídea). A diferencia de la suma, la resta o la multiplicación, la división entre números enteros no está siempre definida; en efecto: 4 dividido 2 es igual a 2 (un número entero), pero 2 entre 4 es igual a ½ (un medio), que ya no es un número entero. La definición formal de «división» , «divisibilidad» y «conmensurabilidad», dependerá luego del conjunto de definición.
+
+Como cualquier operación, en el resultado de una división tiene que ser único, por eso existe una definición para cociente y resto.
+
+    </string>
+
+</resources>
